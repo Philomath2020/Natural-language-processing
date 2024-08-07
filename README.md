@@ -26,7 +26,6 @@ Interfaysning chap qismidagi bo'lmaga Audini microfon orqali yozish va yuklash m
   <img height="500" src="https://github.com/Philomath2020/Natural-language-processing/blob/main/pic/gra2.png"  />
 </div>
 
-
 ## Sentiment-analysis loyihasi:
 
 ## Overview
